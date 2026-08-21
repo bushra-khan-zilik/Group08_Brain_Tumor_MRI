@@ -19,7 +19,7 @@ Comparative study of six deep learning architectures — **ResNet50**, **VGG16**
 | **EfficientNetB0** (Transfer Learning) | 88.01% | 87.02% | 89.13% | 87.44% | 88.57% | 88.01% | 87.74% |
 | **ViT-Base/16** (Fine-Tuned) | **94.97%** | 94.20% | 95.68% | 94.65% | 95.44% | 94.97% | 94.93% |
 | **GCN** (Superpixel + RAG) | 75.13% | 73.00%* | 77.00%* | 73.41% | 76.00%* | 75.00%* | 74.00%* |
-| **Improved GCN** |  |  |  |  |  |  |  |
+| **Improved GCN** |90.09%  |  |  |  |  |  |  |
 
 `*` GCN's macro/weighted precision, recall, and weighted-F1 are reported to 2 decimal places, matching the notebook's `classification_report` output precision. Accuracy and macro-F1 are exact values from the notebook's stored results summary.
 
