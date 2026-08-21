@@ -1,4 +1,4 @@
-# Brain Tumor MRI Classification — Deep Learning Research
+# Brain Tumor MRI Classification
 
 Comparative study of six deep learning architectures — **ResNet50**, **VGG16**, **EfficientNetB0**, **ViT-Base/16**, **GCN (Superpixel-based)**, and an **Improved GCN** — for multi-class brain tumor classification from MRI scans.
 
@@ -67,7 +67,7 @@ Pillow
 
 ## Course Context
 
-Developed as part of **CSE475 (Deep Learning)** coursework at **East West University**.
+Developed as part of **CSE475 (Machine Learning)** coursework at **East West University**.
 
 ## License
 
